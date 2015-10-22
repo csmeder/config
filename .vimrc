@@ -41,4 +41,4 @@ au BufNewFile,BufRead *.scss set filetype=sass
 " to write to protected files
 cmap w!! %!sudo tee %
 
-
+colorscheme desert
